@@ -1,0 +1,24 @@
+{
+  "name": "diff-viewer",
+  "version": "1.0.0",
+  "description": "Visualizador de diff textual com coloracao ANSI baseado em LCS (longest common subsequence).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "diff",
+    "ansi",
+    "color",
+    "cli",
+    "terminal"
+  ],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
