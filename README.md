@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/diff-viewer/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/diff-viewer/actions)
+[![License](https://img.shields.io/github/license/Tox1469/diff-viewer?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/diff-viewer?style=flat-square)](https://github.com/Tox1469/diff-viewer/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/diff-viewer?style=flat-square)](https://github.com/Tox1469/diff-viewer/stargazers)
+
+---
+
 # diff-viewer
 
 Visualizador de diff textual com coloracao ANSI baseado em LCS (longest common subsequence).
